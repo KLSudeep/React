@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <h1 className="bg-green-400 text-black p-6 rounded-xl mb-6">
-    Hello world!
+    Hello world! 
   </h1>
   <Card username="Sudeep" btntxt="click me"/>
   <Card username="Sathish" />
